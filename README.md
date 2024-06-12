@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jenfer</h1>
 <h3 align="center">A junior fronted developer from Venezuela</h3>
 
-- 🔭 I’m currently working on **Bomberman!**
+- 🔭 I’m currently working on a **Website M&R**
 
 - 🌱 I’m currently learning **Nodejs, react, and Conventional commits**
 
