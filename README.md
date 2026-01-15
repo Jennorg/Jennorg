@@ -2,13 +2,7 @@
 
 ### Hi, I'm Jennorg 👋
 
-A passionate and detail-oriented **Frontend Developer** with hands-on experience in the **React** ecosystem.
-
-I focus on building functional and aesthetically pleasing user interfaces, leveraging skills across the full stack.
-
-- ⚙️ **Currently Refining:** Expanding my full-stack capabilities by mastering **Node.js** for robust backend services and exploring **Go** for performance-critical applications.
-- ✨ **Design & Usability:** Committed to best practices in mobile-first and responsive design, ensuring cross-browser compatibility and optimal user experience (UX) metrics.
-- 📫 **Let's Connect:** I'm open to collaboration on challenging projects. Reach me at **jenfer.dev@gmail.com**
+A detail-oriented **Full Stack Developer** with a strong focus on the **React** ecosystem and modern frontend architectures. I specialize in building high-performance web applications using **TypeScript**, **Astro**, and **Tailwind CSS**, ensuring a seamless balance between functional backend logic and polished user interfaces.
 
 ## 🌐 Connect With Me
 
