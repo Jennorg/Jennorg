@@ -17,7 +17,7 @@ I focus on building functional and aesthetically pleasing user interfaces, lever
 <a href="https://github.com/Jennorg" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
 </p>
 
-**📄 [Look my resume]([https://docs.google.com/document/d/1ZoXMYbXoWN5VO1rKXgqV53Vus3sAstWso69QENbZsHI/edit?usp=sharing](https://docs.google.com/document/d/1m3JEUMGnBPNjm3cZFqImiGmibngy-XcYE_t9sK92kyQ/edit?usp=sharing))**
+**📄 [Look my resume]([https://docs.google.com/document/d/1ZoXMYbXoWN5VO1rKXgqV53Vus3sAstWso69QENbZsHI/edit?usp=sharing](https://docs.google.com/document/d/1m3JEUMGnBPNjm3cZFqImiGmibngy-XcYE_t9sK92kyQ/edit?usp=sharing)**
 
 ## 🛠️ Tech Stack
 
