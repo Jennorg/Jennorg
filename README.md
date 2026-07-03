@@ -15,7 +15,7 @@
         Sometimes I code apps for needs I have. The rest of the time, I'm just changing a Tailwind class from p-4 to p-5 and back to p-4
     </td>
     <td width="30%" align="right">
-      <img src="Cat Work GIf.gif" width="150" alt="Cat coding GIF">
+      <img src="cat.gif" width="150" alt="Cat coding GIF">
     </td>
   </tr>
 </table>
